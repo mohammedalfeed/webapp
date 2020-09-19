@@ -46,6 +46,8 @@ def set_png_as_page_bg(png_file):
 
 set_png_as_page_bg('webpic.jfif')
 
+st.set_option('deprecation.showPyplotGlobalUse', False)
+
 
 title = '''
 
